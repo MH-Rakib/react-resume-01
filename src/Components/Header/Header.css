@@ -1,0 +1,44 @@
+.header {
+  background-color: #fff;
+}
+
+.header .home_menu {
+  background-color: #ffb100;
+  padding: 15px 20px;
+}
+
+.header_menu {
+  font-size: 18px;
+  font-weight: 500;
+  color: #777;
+  margin: 0 10px;
+}
+
+.header_menu:hover {
+  color: #ffb100 !important;
+  transition: 0.2s all ease;
+}
+
+.header_menu_active {
+  color: #ffb100 !important;
+  font-size: 18px;
+  font-weight: 500;
+  margin: 0 10px;
+}
+
+.navbar {
+  padding: 0;
+  padding-right: 20px;
+}
+
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+  margin-right: 0;
+}
+
+.social_icons .MuiSvgIcon-root {
+  font-size: 14px;
+  margin-right: 15px;
+  color: #444;
+}

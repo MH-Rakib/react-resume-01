@@ -1,0 +1,14 @@
+.custom_button {
+  padding: 3px 0px;
+  padding-left: 14px;
+  padding-right: 5px;
+  background-color: #ffb100;
+  border-radius: 24px;
+  border: none;
+  color: #222;
+  font-size: 15px;
+  line-height: 23px;
+  font-weight: 500;
+  vertical-align: baseline;
+  box-shadow: 0 0 10px #ddd;
+}

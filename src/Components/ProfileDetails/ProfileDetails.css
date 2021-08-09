@@ -1,0 +1,19 @@
+.profile_details {
+  padding: 5px;
+}
+.profile_name {
+  font-size: 14px;
+  color: #555;
+  font-weight: 400;
+}
+
+.profile_button {
+  font-size: 14px;
+  color: #ddd;
+  font-weight: 700;
+}
+.downloadCV {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}

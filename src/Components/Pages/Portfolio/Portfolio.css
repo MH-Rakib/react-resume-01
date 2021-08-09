@@ -1,0 +1,62 @@
+.rest_category {
+  font-size: 12px;
+  font-weight: 500;
+  color: #222;
+}
+
+.active_category {
+  color: #f8ae00;
+  font-size: 12px;
+  font-weight: 500;
+  text-shadow: 0 0 10px #e7e7e7;
+}
+.categories ul {
+  list-style-type: none;
+}
+
+.categories ul li {
+  display: inline-block;
+  padding: 10px 14px;
+  cursor: pointer;
+}
+/* .active_category::before {
+  position: absolute;
+  content: "";
+  width: 80%;
+  height: 6px;
+
+  left: 0;
+  bottom: 15px;
+  background-color: #fce1a2;
+  z-index: -1;
+} */
+.portfolio_image img {
+  width: 100%;
+}
+.portfolio_card {
+  background-color: #f8fafd;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 15px 0;
+}
+
+.portfolio_content {
+  padding: 0 10px;
+  padding-bottom: 10px;
+}
+.portfolio_content_title {
+  font-size: 14px;
+  color: #222;
+  font-weight: 500;
+  margin: 0;
+  padding: 0;
+  margin-top: 7px;
+}
+
+.portfolio_content_description {
+  font-size: 12px;
+  color: #222;
+  font-weight: 400;
+  margin: 0;
+  padding: 0;
+}

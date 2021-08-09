@@ -1,0 +1,31 @@
+.profile {
+  background-color: #fff;
+}
+
+.profile_header {
+  padding: 20px;
+}
+
+.profile_header .name {
+  font-size: 20px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 5px;
+  text-transform: uppercase;
+}
+
+.profile_header .title {
+  font-size: 16px;
+  font-weight: normal;
+  color: #777;
+}
+
+.profile_image {
+  width: 100%;
+  margin-top: -10px;
+}
+
+.profile_image img {
+  width: 100%;
+  clip-path: polygon(0 3%, 100% 0%, 100% 96%, 0% 100%);
+}
